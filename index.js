@@ -22,7 +22,6 @@ function updateLaunchDate() {
     secondElement.innerHTML = `${seconds}`;
 }
 
-console.log(launchDate);
 
 updateLaunchDate();
 

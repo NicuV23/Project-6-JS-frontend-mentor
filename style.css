@@ -98,3 +98,40 @@ hr {
 .icon:hover {
   background-color: hsl(236, 21%, 6%);
 }
+
+@media (max-width: 600px) {
+  .boxOne {
+    height: 90px;
+  }
+
+  .second {
+    font-size: 65px;
+  }
+
+  .minute {
+    font-size: 65px;
+  }
+
+  .hour {
+    font-size: 65px;
+  }
+
+  .day {
+    font-size: 65px;
+  }
+
+  .foot {
+    width: 100%;
+    height: 45%;
+  }
+
+  .boxes {
+    margin-bottom: 200px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
+  .title {
+    font-size: 20px;
+  }
+}
